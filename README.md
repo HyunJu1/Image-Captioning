@@ -34,4 +34,5 @@ Image | Caption
 
 ## References
 [1] Vinyals, Oriol, et al. "Show and tell: A neural image caption generator." Proceedings of the IEEE conference on computer vision and pattern recognition. 2015.
+
 [2] Quanzeng You1 , Hailin Jin2 , Zhaowen Wang2 , Chen Fang2 , and Jiebo Luo1, "Image Captioning with Semantic Attention", Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016
