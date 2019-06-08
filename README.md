@@ -11,6 +11,7 @@ Using MS-COCO Datasets.
 4. matplotlib
 5. Pandas
 6. Pillow
+7. nltk
    etc..
 
 ## Steps to execute
@@ -29,10 +30,3 @@ Image | Caption
 <img src="https://github.com/HyunJu1/Image-Captioning/blob/master/images/pic5.jpg" width="400"> | **Generated Caption:** a man and a woman standing in front of a car.
 <img src="https://github.com/HyunJu1/Image-Captioning/blob/master/images/pic1.jpg" width="400"> | **Generated Caption:** a girl is walking down a sidewalk with a backpack.
 <img src="https://github.com/HyunJu1/Image-Captioning/blob/master/images/pic3.jpg" width="400"> | **Generated Caption:** a white dog sitting on a wooden floor next to a white plate.
-
-
-
-## References
-[1] Vinyals, Oriol, et al. "Show and tell: A neural image caption generator." Proceedings of the IEEE conference on computer vision and pattern recognition. 2015.
-
-[2] Quanzeng You1 , Hailin Jin2 , Zhaowen Wang2 , Chen Fang2 , and Jiebo Luo1, "Image Captioning with Semantic Attention", Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016
